@@ -323,7 +323,7 @@ img {
 .newsletter-info p {
   font-size: 1.25em;
   font-style: italic;
-  max-width: 230px;
+  max-width: 240px;
   color: #7c7c7c;
 }
 
@@ -336,7 +336,7 @@ img {
 }
 
 .newsletter-form input {
-  flex:3 1 200px;
+  flex:3 1 260px;
   font-size: 1.25em;
   padding: 15px;
   color: #7c7c7c;
@@ -345,7 +345,7 @@ img {
 }
 
 .newsletter-form button {
-  flex: 1 1 200px;
+  flex: 1 1 260px;
   font-size: 2em;
   color: white;
   background: #2c70ff;
